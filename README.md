@@ -1,2 +1,2 @@
 # MachineLearning
-Using Linear regression, Times Series, Classification and Clustering techniques to gather insights
+Using MachineLearning algorithms to gather insights and do some forecasting in different projects.
